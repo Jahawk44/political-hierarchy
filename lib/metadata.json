@@ -1,13 +1,229 @@
 {
   "vaultName": "Obsidian Vault",
-  "lastExport": 1737525317356,
+  "lastExport": 1737896916858,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon custom-accent ribbon-default special-h6",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon custom-accent ribbon-default special-h6 hider-meta",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "Character/House of Cellesela/Alyna Cerrine.md",
+    "Character/House of Cellesela/Cellesela.md",
+    "Character/House of Cellesela/Creo Ascella.md",
+    "Character/House of Cellesela/Luna Elysia.md",
+    "Character/House of Cellesela/Octavia Vulp.md",
+    "Character/House of Gagon/Yeetus Bosimau.md",
+    "Character/House of Gagon/Zeurgeud Abadi.md",
+    "Character/House of Gaius/Julius Cato.md",
+    "Character/House of Gaius/Samulus Marcellus.md",
+    "Character/House of Rhagaia/Azullia Ryea.md",
+    "Character/House of Rhagaia/Gionni Valen.md",
+    "Character/House of Rhagaia/Martius Umbra.md",
+    "Character/House of Tyrannite/Alcyon.md",
+    "Character/House of Tyrannite/Ciro Alcyon II.md",
+    "Character/House of Tyrannite/Ciro Alycon.md",
+    "Character/House of Tyrannite/Croton Alcyon.md",
+    "Character/House of Tyrannite/Deren Taygetta.md",
+    "Character/House of Tyrannite/Lady Minerva.md",
+    "Character/House of Tyrannite/Minerca The First King.md",
+    "Character/House of Tyrannite/Potii Taygetta.md",
+    "Character/House of Tyrannite/Taygetta.md",
+    "Character/Balleon Wensbane.md",
+    "Character/Daleth Sehlk.md",
+    "Character/Elara.md",
+    "Character/Lexius Nexa.md",
+    "Character/Litmus & Talus.md",
+    "Character/Malco Vael.md",
+    "Character/Riu.md",
+    "Character/Semi Lya WIP.md",
+    "Character/Taixhu Fenyr.md",
+    "Character/Taneds Akhar.md",
+    "Creature/Chlorolith.md",
+    "Creature/Fellarian.md",
+    "Creature/Servus.md",
+    "Creature/The Common Onwixe (unwise).md",
+    "Creature/The Horned Sea Eagle.md",
+    "Creature/The Immortals.md",
+    "Creature/The Walking Samurai.md",
+    "Culture/Alexians Culture.md",
+    "Culture/Daxos Culture.md",
+    "Culture/Elvish Culture.md",
+    "Culture/Incazil Culture.md",
+    "Culture/Linerian Culture.md",
+    "Culture/Polysia Culture.md",
+    "Culture/Sciatic Culture.md",
+    "Culture/Song Culture.md",
+    "Culture/Styx Culture.md",
+    "Culture/Tolkhai Culture.md",
+    "Culture/Tora Culture.md",
+    "Events/Styx-Lineria War.md",
+    "Factions/Guild of Rhagaia.md",
+    "Factions/The Mothers.md",
+    "Factions/The Ori.md",
+    "House/- Noble House -.canvas",
+    "House/House of Cellesela.md",
+    "House/House of Gagoon.md",
+    "House/House of Gaius.md",
+    "House/House of Rhagaia.md",
+    "House/Royal House of Tyrannite.md",
+    "Items/Dragon Silk.md",
+    "Items/Vitale.md",
+    "Places/Cities & Town/Cassio Region/Laufar.md",
+    "Places/Cities & Town/Cassio Region/Laufar.html",
+    "Places/Cities & Town/Cassio Region/Mineralia Magna.md",
+    "Places/Cities & Town/Cassio Region/Mineralia Magna.html",
+    "Places/Cities & Town/Cassio Region/Servs Landing.md",
+    "Places/Cities & Town/Cassio Region/Servs Landing.html",
+    "Places/Cities & Town/Cellesela Region/Cabantha.md",
+    "Places/Cities & Town/Cellesela Region/Cabantha.html",
+    "Places/Cities & Town/Cellesela Region/Hyperia.md",
+    "Places/Cities & Town/Cellesela Region/Hyperia.html",
+    "Places/Cities & Town/Cellesela Region/Hyrios.md",
+    "Places/Cities & Town/Cellesela Region/Hyrios.html",
+    "Places/Cities & Town/Cellesela Region/Nimrod.md",
+    "Places/Cities & Town/Cellesela Region/Nimrod.html",
+    "Places/Cities & Town/Cellesela Region/Selene.md",
+    "Places/Cities & Town/Cellesela Region/Selene.html",
+    "Places/Cities & Town/Cellesela Region/Seos.md",
+    "Places/Cities & Town/Cellesela Region/Seos.html",
+    "Places/Cities & Town/Gaius Region/Orbis Fortress.md",
+    "Places/Cities & Town/Gaius Region/Orbis Fortress.html",
+    "Places/Cities & Town/Gaius Region/Pegasus.md",
+    "Places/Cities & Town/Gaius Region/Pegasus.html",
+    "Places/Cities & Town/Aurora.md",
+    "Places/Cities & Town/Aurora.html",
+    "Places/Cities & Town/Coatla.md",
+    "Places/Cities & Town/Coatla.html",
+    "Places/Cities & Town/Heromur.md",
+    "Places/Cities & Town/Heromur.html",
+    "Places/Cities & Town/Nepolis.md",
+    "Places/Cities & Town/Nepolis.html",
+    "Places/Azalel.md",
+    "Places/Colonia.md",
+    "Places/Fountain of Youth.md",
+    "Places/The Ashland Region.md",
+    "Political Realm/Court Position/Dominar of Empire.md",
+    "Political Realm/Court Position/Elite Troops and Mercenary.md",
+    "Political Realm/Court Position/Emperor.md",
+    "Political Realm/Court Position/Field Marshal of the King_s Troops.md",
+    "Political Realm/Court Position/Grand Justiciar.md",
+    "Political Realm/Court Position/Grand Overseer of Royal Treasure.md",
+    "Political Realm/Court Position/High Commander of the Forces.md",
+    "Political Realm/Court Position/High Master of Diplomatic Affairs.md",
+    "Political Realm/Court Position/Keeper of the King_s Purse.md",
+    "Political Realm/Court Position/Keeper of the Royal Seals.md",
+    "Political Realm/Court Position/Keeper of the Seals.md",
+    "Political Realm/Court Position/Master of Envoys.md",
+    "Political Realm/Court Position/Master of Revenue.md",
+    "Political Realm/Court Position/Master of Royal Funds.md",
+    "Political Realm/Court Position/Master of the Mint.md",
+    "Political Realm/Court Position/Royal Auditor.md",
+    "Political Realm/Court Position/Royal Justiciar.md",
+    "Political Realm/Court Position/Support Unit.md",
+    "Political Realm/Court Position/The Imperial Advisor.md",
+    "Political Realm/Court Position/The Master of War and Military Affairs.md",
+    "Political Realm/Court Position/Treasurer_s Aide.md",
+    "Political Realm/Court Position/Warden of the Staple.md",
+    "Political Realm/Court Position/Warlord of the Realm.md",
     "Political Realm/- Political Hierarchy -.canvas",
+    "Political Realm/Lynx Kingdom.md",
+    "Political Realm/Malazaer.md",
+    "Political Realm/Royal Conquest - The Free East.md",
+    "Political Realm/Sciatic League.md",
+    "Political Realm/Styx Empire.md",
+    "Religion/Myth of Origin.md",
+    "Religion/Song of the Elder Ones.md",
+    "Religion/The Ori.md",
+    "remote-blog/publish/Story/- Prologue - World Of Continenta.md",
+    "remote-blog/publish/Story/- Prologue - World Of Continenta.html",
+    "remote-blog/publish/Story/Chapter 1 - Start of the Rift.md",
+    "remote-blog/publish/Story/Chapter 1 - Start of the Rift.html",
+    "remote-blog/publish/Story/Chapter 2 - The Cellesella.md",
+    "remote-blog/publish/Story/Chapter 2 - The Cellesella.html",
+    "remote-blog/publish/Story/Chapter 2 - The Cellesella (AI).md",
+    "remote-blog/publish/Story/Chapter 3 - The Cost of Immortality.md",
+    "remote-blog/publish/Story/Chapter 3 - The Cost of Immortality.html",
+    "remote-blog/publish/Story/Chapter 4 - Wave of Changes.md",
+    "remote-blog/publish/Story/Chapter 4 - Wave of Changes.html",
+    "remote-blog/publish/home.md",
+    "remote-blog/README.md",
+    "Tales of Sakkan/Ch.1 Seas People.md",
+    "Tales of Sakkan/Ch.2 Refugee.md",
+    "Tales of Sakkan/Ch.6 The Immortals.md",
+    "Tales of Sakkan/Ch.13 Ares.md",
+    "z_Images/1675935020913.jpg",
+    "z_Images/1675935224021.jpg",
+    "z_Images/1676564327502.jpg",
+    "z_Images/Alyna Cerrine In Garden.jpg",
+    "z_Images/artwork holyminerca.jpg",
+    "z_Images/artwork of Croton.jpg",
+    "z_Images/Cassio Emblem.png",
+    "z_Images/Cellesela Banner.png",
+    "z_Images/Cellesela Banner 1.png",
+    "z_Images/celleselabanner.png",
+    "z_Images/celleselabanner2.png",
+    "z_Images/celleselabanner3.png",
+    "z_Images/CiroAlcyon.jpg",
+    "z_Images/CiroAlcyon1.jpg",
+    "z_Images/Continenta.jpeg",
+    "z_Images/Creo.jpg",
+    "z_Images/dragonspider.png",
+    "z_Images/Elara.jpg",
+    "z_Images/incazil banner.png",
+    "z_Images/JuliusAlt.jpg",
+    "z_Images/Martius.jpg",
+    "z_Images/Martius2.jpg",
+    "z_Images/MineraliaMagna.png",
+    "z_Images/mother minerva.jpg",
+    "z_Images/newluna.png",
+    "z_Images/noble potii.jpg",
+    "z_Images/OldBuilding.jpg",
+    "z_Images/Playground.jpg",
+    "z_Images/Rhagaia Emblem.png",
+    "z_Images/Rhagaia Emblem 1.png",
+    "z_Images/rhagaiabanner.png",
+    "z_Images/Samulus.jpg",
+    "z_Images/SamulusAlt.jpg",
+    "z_Images/sciatic.jpg",
+    "z_Images/SemiLya.jpg",
+    "z_Images/SemiLyaAlt.jpg",
+    "z_Images/StyxBanner.png",
+    "z_Images/the Ori priest.jpg",
+    "z_Images/young mother cellesela.gif",
+    "z_Images/Young Octavia.jpg",
+    "z_Images/zeurkeeur.jpg",
+    "z_Images/zeurkeur.png",
+    "Continenta Map New.png",
+    "Timeline.md",
+    "lib/media/alyna-cerrine-in-garden.jpg",
+    "lib/media/young-mother-cellesela.gif",
+    "lib/media/creo.jpg",
+    "lib/media/newluna.png",
+    "lib/media/young-octavia.jpg",
+    "lib/media/zeurkeeur.jpg",
+    "lib/media/juliusalt.jpg",
+    "lib/media/samulus.jpg",
+    "lib/media/martius.jpg",
+    "lib/media/ciroalcyon.jpg",
+    "lib/media/artwork-of-croton.jpg",
+    "lib/media/mother-minerva.jpg",
+    "lib/media/artwork-holyminerca.jpg",
+    "lib/media/noble-potii.jpg",
+    "lib/media/elara.jpg",
+    "lib/media/semilya.jpg",
     "lib/media/the-ori-priest.jpg",
+    "lib/media/cellesela-banner-1.png",
+    "lib/media/1676564327502.jpg",
+    "lib/media/samulusalt.jpg",
+    "lib/media/rhagaiabanner.png",
+    "lib/media/rhagaia-emblem-1.png",
+    "lib/media/martius2.jpg",
+    "lib/media/ciroalcyon1.jpg",
+    "lib/media/cassio-emblem.png",
+    "lib/media/dragonspider.png",
+    "lib/media/oldbuilding.jpg",
+    "lib/media/mineraliamagna.png",
+    "lib/media/sciatic.jpg",
+    "lib/media/1675935020913.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -34,6 +250,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
@@ -67,6 +284,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
@@ -74,202 +292,1616 @@
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
+    "Character/House of Cellesela/Alyna Cerrine.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 927,
+      "exportedPath": "character/house-of-cellesela/alyna-cerrine.html",
+      "dependencies": [
+        "lib/media/alyna-cerrine-in-garden.jpg"
+      ]
+    },
+    "Character/House of Cellesela/Cellesela.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 116,
+      "exportedPath": "character/house-of-cellesela/cellesela.html",
+      "dependencies": [
+        "lib/media/young-mother-cellesela.gif"
+      ]
+    },
+    "Character/House of Cellesela/Creo Ascella.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 855,
+      "exportedPath": "character/house-of-cellesela/creo-ascella.html",
+      "dependencies": [
+        "lib/media/creo.jpg"
+      ]
+    },
+    "Character/House of Cellesela/Luna Elysia.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 727,
+      "exportedPath": "character/house-of-cellesela/luna-elysia.html",
+      "dependencies": [
+        "lib/media/newluna.png"
+      ]
+    },
+    "Character/House of Cellesela/Octavia Vulp.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 568,
+      "exportedPath": "character/house-of-cellesela/octavia-vulp.html",
+      "dependencies": [
+        "lib/media/young-octavia.jpg"
+      ]
+    },
+    "Character/House of Gagon/Yeetus Bosimau.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 889,
+      "exportedPath": "character/house-of-gagon/yeetus-bosimau.html",
+      "dependencies": []
+    },
+    "Character/House of Gagon/Zeurgeud Abadi.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 796,
+      "exportedPath": "character/house-of-gagon/zeurgeud-abadi.html",
+      "dependencies": [
+        "lib/media/zeurkeeur.jpg"
+      ]
+    },
+    "Character/House of Gaius/Julius Cato.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 789,
+      "exportedPath": "character/house-of-gaius/julius-cato.html",
+      "dependencies": [
+        "lib/media/juliusalt.jpg"
+      ]
+    },
+    "Character/House of Gaius/Samulus Marcellus.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 873,
+      "exportedPath": "character/house-of-gaius/samulus-marcellus.html",
+      "dependencies": [
+        "lib/media/samulus.jpg"
+      ]
+    },
+    "Character/House of Rhagaia/Azullia Ryea.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 726,
+      "exportedPath": "character/house-of-rhagaia/azullia-ryea.html",
+      "dependencies": []
+    },
+    "Character/House of Rhagaia/Gionni Valen.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1322,
+      "exportedPath": "character/house-of-rhagaia/gionni-valen.html",
+      "dependencies": []
+    },
+    "Character/House of Rhagaia/Martius Umbra.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 997,
+      "exportedPath": "character/house-of-rhagaia/martius-umbra.html",
+      "dependencies": [
+        "lib/media/martius.jpg"
+      ]
+    },
+    "Character/House of Tyrannite/Alcyon.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 15,
+      "exportedPath": "character/house-of-tyrannite/alcyon.html",
+      "dependencies": []
+    },
+    "Character/House of Tyrannite/Ciro Alcyon II.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 28,
+      "exportedPath": "character/house-of-tyrannite/ciro-alcyon-ii.html",
+      "dependencies": []
+    },
+    "Character/House of Tyrannite/Ciro Alycon.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1223,
+      "exportedPath": "character/house-of-tyrannite/ciro-alycon.html",
+      "dependencies": [
+        "lib/media/ciroalcyon.jpg"
+      ]
+    },
+    "Character/House of Tyrannite/Croton Alcyon.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 223,
+      "exportedPath": "character/house-of-tyrannite/croton-alcyon.html",
+      "dependencies": [
+        "lib/media/artwork-of-croton.jpg"
+      ]
+    },
+    "Character/House of Tyrannite/Deren Taygetta.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "character/house-of-tyrannite/deren-taygetta.html",
+      "dependencies": []
+    },
+    "Character/House of Tyrannite/Lady Minerva.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 35,
+      "exportedPath": "character/house-of-tyrannite/lady-minerva.html",
+      "dependencies": [
+        "lib/media/mother-minerva.jpg"
+      ]
+    },
+    "Character/House of Tyrannite/Minerca The First King.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 50,
+      "exportedPath": "character/house-of-tyrannite/minerca-the-first-king.html",
+      "dependencies": [
+        "lib/media/artwork-holyminerca.jpg"
+      ]
+    },
+    "Character/House of Tyrannite/Potii Taygetta.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 937,
+      "exportedPath": "character/house-of-tyrannite/potii-taygetta.html",
+      "dependencies": [
+        "lib/media/noble-potii.jpg"
+      ]
+    },
+    "Character/House of Tyrannite/Taygetta.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 47,
+      "exportedPath": "character/house-of-tyrannite/taygetta.html",
+      "dependencies": []
+    },
+    "Character/Balleon Wensbane.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 41,
+      "exportedPath": "character/balleon-wensbane.html",
+      "dependencies": []
+    },
+    "Character/Daleth Sehlk.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 935,
+      "exportedPath": "character/daleth-sehlk.html",
+      "dependencies": []
+    },
+    "Character/Elara.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 57,
+      "exportedPath": "character/elara.html",
+      "dependencies": [
+        "lib/media/elara.jpg"
+      ]
+    },
+    "Character/Lexius Nexa.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 20,
+      "exportedPath": "character/lexius-nexa.html",
+      "dependencies": []
+    },
+    "Character/Litmus & Talus.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "character/litmus-&-talus.html",
+      "dependencies": []
+    },
+    "Character/Malco Vael.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "character/malco-vael.html",
+      "dependencies": []
+    },
+    "Character/Riu.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "character/riu.html",
+      "dependencies": []
+    },
+    "Character/Semi Lya WIP.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 566,
+      "exportedPath": "character/semi-lya-wip.html",
+      "dependencies": [
+        "lib/media/semilya.jpg"
+      ]
+    },
+    "Character/Taixhu Fenyr.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 32,
+      "exportedPath": "character/taixhu-fenyr.html",
+      "dependencies": []
+    },
+    "Character/Taneds Akhar.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 23,
+      "exportedPath": "character/taneds-akhar.html",
+      "dependencies": []
+    },
+    "Creature/Chlorolith.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 934,
+      "exportedPath": "creature/chlorolith.html",
+      "dependencies": []
+    },
+    "Creature/Fellarian.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 539,
+      "exportedPath": "creature/fellarian.html",
+      "dependencies": []
+    },
+    "Creature/Servus.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1216,
+      "exportedPath": "creature/servus.html",
+      "dependencies": []
+    },
+    "Creature/The Common Onwixe (unwise).md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 17,
+      "exportedPath": "creature/the-common-onwixe-(unwise).html",
+      "dependencies": []
+    },
+    "Creature/The Horned Sea Eagle.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 2318,
+      "exportedPath": "creature/the-horned-sea-eagle.html",
+      "dependencies": []
+    },
+    "Creature/The Immortals.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 131,
+      "exportedPath": "creature/the-immortals.html",
+      "dependencies": []
+    },
+    "Creature/The Walking Samurai.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 101,
+      "exportedPath": "creature/the-walking-samurai.html",
+      "dependencies": []
+    },
+    "Culture/Alexians Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "culture/alexians-culture.html",
+      "dependencies": []
+    },
+    "Culture/Daxos Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1995,
+      "exportedPath": "culture/daxos-culture.html",
+      "dependencies": []
+    },
+    "Culture/Elvish Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 22,
+      "exportedPath": "culture/elvish-culture.html",
+      "dependencies": []
+    },
+    "Culture/Incazil Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 306,
+      "exportedPath": "culture/incazil-culture.html",
+      "dependencies": []
+    },
+    "Culture/Linerian Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 23,
+      "exportedPath": "culture/linerian-culture.html",
+      "dependencies": []
+    },
+    "Culture/Polysia Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1423,
+      "exportedPath": "culture/polysia-culture.html",
+      "dependencies": []
+    },
+    "Culture/Sciatic Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "culture/sciatic-culture.html",
+      "dependencies": []
+    },
+    "Culture/Song Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 72,
+      "exportedPath": "culture/song-culture.html",
+      "dependencies": []
+    },
+    "Culture/Styx Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 65,
+      "exportedPath": "culture/styx-culture.html",
+      "dependencies": []
+    },
+    "Culture/Tolkhai Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 170,
+      "exportedPath": "culture/tolkhai-culture.html",
+      "dependencies": []
+    },
+    "Culture/Tora Culture.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 112,
+      "exportedPath": "culture/tora-culture.html",
+      "dependencies": []
+    },
+    "Events/Styx-Lineria War.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1281,
+      "exportedPath": "events/styx-lineria-war.html",
+      "dependencies": []
+    },
+    "Factions/Guild of Rhagaia.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 268,
+      "exportedPath": "factions/guild-of-rhagaia.html",
+      "dependencies": []
+    },
+    "Factions/The Mothers.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1692,
+      "exportedPath": "factions/the-mothers.html",
+      "dependencies": []
+    },
+    "Factions/The Ori.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 48,
+      "exportedPath": "factions/the-ori.html",
+      "dependencies": [
+        "lib/media/the-ori-priest.jpg"
+      ]
+    },
+    "House/- Noble House -.canvas": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 6756,
+      "exportedPath": "house/-noble-house-.html",
+      "dependencies": [
+        "lib/media/cellesela-banner-1.png",
+        "lib/media/young-octavia.jpg",
+        "lib/media/alyna-cerrine-in-garden.jpg",
+        "lib/media/1676564327502.jpg",
+        "lib/media/creo.jpg",
+        "lib/media/newluna.png",
+        "lib/media/newluna.png",
+        "lib/media/young-mother-cellesela.gif",
+        "lib/media/young-octavia.jpg",
+        "lib/media/alyna-cerrine-in-garden.jpg",
+        "lib/media/1676564327502.jpg",
+        "lib/media/creo.jpg",
+        "lib/media/newluna.png",
+        "lib/media/newluna.png",
+        "lib/media/young-mother-cellesela.gif",
+        "lib/media/samulusalt.jpg",
+        "lib/media/samulus.jpg",
+        "lib/media/juliusalt.jpg",
+        "lib/media/juliusalt.jpg",
+        "lib/media/samulusalt.jpg",
+        "lib/media/samulus.jpg",
+        "lib/media/zeurkeeur.jpg",
+        "lib/media/rhagaiabanner.png",
+        "lib/media/rhagaia-emblem-1.png",
+        "lib/media/martius2.jpg",
+        "lib/media/martius.jpg",
+        "lib/media/martius2.jpg",
+        "lib/media/martius.jpg",
+        "lib/media/artwork-holyminerca.jpg",
+        "lib/media/mother-minerva.jpg",
+        "lib/media/artwork-of-croton.jpg",
+        "lib/media/ciroalcyon1.jpg",
+        "lib/media/ciroalcyon.jpg",
+        "lib/media/noble-potii.jpg",
+        "lib/media/ciroalcyon1.jpg",
+        "lib/media/ciroalcyon.jpg",
+        "lib/media/noble-potii.jpg",
+        "lib/media/artwork-holyminerca.jpg",
+        "lib/media/mother-minerva.jpg"
+      ]
+    },
+    "House/House of Cellesela.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 2028,
+      "exportedPath": "house/house-of-cellesela.html",
+      "dependencies": [
+        "lib/media/cellesela-banner-1.png",
+        "lib/media/young-octavia.jpg",
+        "lib/media/alyna-cerrine-in-garden.jpg",
+        "lib/media/1676564327502.jpg",
+        "lib/media/creo.jpg",
+        "lib/media/newluna.png",
+        "lib/media/newluna.png",
+        "lib/media/young-mother-cellesela.gif"
+      ]
+    },
+    "House/House of Gagoon.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1497,
+      "exportedPath": "house/house-of-gagoon.html",
+      "dependencies": [
+        "lib/media/cassio-emblem.png",
+        "lib/media/zeurkeeur.jpg"
+      ]
+    },
+    "House/House of Gaius.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1811,
+      "exportedPath": "house/house-of-gaius.html",
+      "dependencies": [
+        "lib/media/samulus.jpg",
+        "lib/media/juliusalt.jpg"
+      ]
+    },
+    "House/House of Rhagaia.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1338,
+      "exportedPath": "house/house-of-rhagaia.html",
+      "dependencies": [
+        "lib/media/rhagaia-emblem-1.png",
+        "lib/media/martius2.jpg",
+        "lib/media/martius.jpg"
+      ]
+    },
+    "House/Royal House of Tyrannite.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 977,
+      "exportedPath": "house/royal-house-of-tyrannite.html",
+      "dependencies": [
+        "lib/media/ciroalcyon.jpg",
+        "lib/media/noble-potii.jpg",
+        "lib/media/artwork-holyminerca.jpg",
+        "lib/media/mother-minerva.jpg"
+      ]
+    },
+    "Items/Dragon Silk.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1632,
+      "exportedPath": "items/dragon-silk.html",
+      "dependencies": [
+        "lib/media/dragonspider.png"
+      ]
+    },
+    "Items/Vitale.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1276,
+      "exportedPath": "items/vitale.html",
+      "dependencies": [
+        "lib/media/oldbuilding.jpg"
+      ]
+    },
+    "Places/Cities & Town/Cassio Region/Laufar.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "places/cities-&-town/cassio-region/laufar.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cassio Region/Laufar.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475080,
+      "exportedPath": "places/cities-&-town/cassio-region/laufar.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cassio Region/Mineralia Magna.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 2763,
+      "exportedPath": "places/cities-&-town/cassio-region/mineralia-magna.html",
+      "dependencies": [
+        "lib/media/mineraliamagna.png"
+      ]
+    },
+    "Places/Cities & Town/Cassio Region/Mineralia Magna.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1963999,
+      "exportedPath": "places/cities-&-town/cassio-region/mineralia-magna.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cassio Region/Servs Landing.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 72,
+      "exportedPath": "places/cities-&-town/cassio-region/servs-landing.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cassio Region/Servs Landing.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475183,
+      "exportedPath": "places/cities-&-town/cassio-region/servs-landing.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Cabantha.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "places/cities-&-town/cellesela-region/cabantha.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Cabantha.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475084,
+      "exportedPath": "places/cities-&-town/cellesela-region/cabantha.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Hyperia.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 29,
+      "exportedPath": "places/cities-&-town/cellesela-region/hyperia.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Hyperia.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475130,
+      "exportedPath": "places/cities-&-town/cellesela-region/hyperia.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Hyrios.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "places/cities-&-town/cellesela-region/hyrios.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Hyrios.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475080,
+      "exportedPath": "places/cities-&-town/cellesela-region/hyrios.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Nimrod.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "places/cities-&-town/cellesela-region/nimrod.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Nimrod.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475080,
+      "exportedPath": "places/cities-&-town/cellesela-region/nimrod.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Selene.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "places/cities-&-town/cellesela-region/selene.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Selene.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475080,
+      "exportedPath": "places/cities-&-town/cellesela-region/selene.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Seos.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 2374,
+      "exportedPath": "places/cities-&-town/cellesela-region/seos.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Cellesela Region/Seos.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1478714,
+      "exportedPath": "places/cities-&-town/cellesela-region/seos.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Gaius Region/Orbis Fortress.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1600,
+      "exportedPath": "places/cities-&-town/gaius-region/orbis-fortress.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Gaius Region/Orbis Fortress.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1476019,
+      "exportedPath": "places/cities-&-town/gaius-region/orbis-fortress.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Gaius Region/Pegasus.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "places/cities-&-town/gaius-region/pegasus.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Gaius Region/Pegasus.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475082,
+      "exportedPath": "places/cities-&-town/gaius-region/pegasus.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Aurora.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 2782,
+      "exportedPath": "places/cities-&-town/aurora.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Aurora.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1476232,
+      "exportedPath": "places/cities-&-town/aurora.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Coatla.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 27,
+      "exportedPath": "places/cities-&-town/coatla.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Coatla.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475120,
+      "exportedPath": "places/cities-&-town/coatla.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Heromur.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 3254,
+      "exportedPath": "places/cities-&-town/heromur.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Heromur.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1476114,
+      "exportedPath": "places/cities-&-town/heromur.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Nepolis.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 33,
+      "exportedPath": "places/cities-&-town/nepolis.html",
+      "dependencies": []
+    },
+    "Places/Cities & Town/Nepolis.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475128,
+      "exportedPath": "places/cities-&-town/nepolis.html",
+      "dependencies": []
+    },
+    "Places/Azalel.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "places/azalel.html",
+      "dependencies": []
+    },
+    "Places/Colonia.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 428,
+      "exportedPath": "places/colonia.html",
+      "dependencies": []
+    },
+    "Places/Fountain of Youth.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 2468,
+      "exportedPath": "places/fountain-of-youth.html",
+      "dependencies": [
+        "lib/media/oldbuilding.jpg"
+      ]
+    },
+    "Places/The Ashland Region.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "places/the-ashland-region.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Dominar of Empire.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 82,
+      "exportedPath": "political-realm/court-position/dominar-of-empire.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Elite Troops and Mercenary.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 47,
+      "exportedPath": "political-realm/court-position/elite-troops-and-mercenary.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Emperor.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "political-realm/court-position/emperor.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Field Marshal of the King_s Troops.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1090,
+      "exportedPath": "political-realm/court-position/field-marshal-of-the-king_s-troops.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Grand Justiciar.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "political-realm/court-position/grand-justiciar.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Grand Overseer of Royal Treasure.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 669,
+      "exportedPath": "political-realm/court-position/grand-overseer-of-royal-treasure.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/High Commander of the Forces.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 503,
+      "exportedPath": "political-realm/court-position/high-commander-of-the-forces.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/High Master of Diplomatic Affairs.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 234,
+      "exportedPath": "political-realm/court-position/high-master-of-diplomatic-affairs.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Keeper of the King_s Purse.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 118,
+      "exportedPath": "political-realm/court-position/keeper-of-the-king_s-purse.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Keeper of the Royal Seals.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 106,
+      "exportedPath": "political-realm/court-position/keeper-of-the-royal-seals.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Keeper of the Seals.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "political-realm/court-position/keeper-of-the-seals.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Master of Envoys.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 540,
+      "exportedPath": "political-realm/court-position/master-of-envoys.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Master of Revenue.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 143,
+      "exportedPath": "political-realm/court-position/master-of-revenue.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Master of Royal Funds.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 92,
+      "exportedPath": "political-realm/court-position/master-of-royal-funds.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Master of the Mint.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 102,
+      "exportedPath": "political-realm/court-position/master-of-the-mint.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Royal Auditor.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "political-realm/court-position/royal-auditor.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Royal Justiciar.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 164,
+      "exportedPath": "political-realm/court-position/royal-justiciar.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Support Unit.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 55,
+      "exportedPath": "political-realm/court-position/support-unit.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/The Imperial Advisor.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 273,
+      "exportedPath": "political-realm/court-position/the-imperial-advisor.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/The Master of War and Military Affairs.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 0,
+      "exportedPath": "political-realm/court-position/the-master-of-war-and-military-affairs.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Treasurer_s Aide.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 125,
+      "exportedPath": "political-realm/court-position/treasurer_s-aide.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Warden of the Staple.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 106,
+      "exportedPath": "political-realm/court-position/warden-of-the-staple.html",
+      "dependencies": []
+    },
+    "Political Realm/Court Position/Warlord of the Realm.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1091,
+      "exportedPath": "political-realm/court-position/warlord-of-the-realm.html",
+      "dependencies": []
+    },
     "Political Realm/- Political Hierarchy -.canvas": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 7346,
       "exportedPath": "political-realm/-political-hierarchy-.html",
       "dependencies": [
         "lib/media/the-ori-priest.jpg"
       ]
     },
+    "Political Realm/Lynx Kingdom.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 58,
+      "exportedPath": "political-realm/lynx-kingdom.html",
+      "dependencies": []
+    },
+    "Political Realm/Malazaer.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 34,
+      "exportedPath": "political-realm/malazaer.html",
+      "dependencies": []
+    },
+    "Political Realm/Royal Conquest - The Free East.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 110,
+      "exportedPath": "political-realm/royal-conquest-the-free-east.html",
+      "dependencies": []
+    },
+    "Political Realm/Sciatic League.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1584,
+      "exportedPath": "political-realm/sciatic-league.html",
+      "dependencies": [
+        "lib/media/sciatic.jpg"
+      ]
+    },
+    "Political Realm/Styx Empire.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 2002,
+      "exportedPath": "political-realm/styx-empire.html",
+      "dependencies": []
+    },
+    "Religion/Myth of Origin.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 2046,
+      "exportedPath": "religion/myth-of-origin.html",
+      "dependencies": []
+    },
+    "Religion/Song of the Elder Ones.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 102,
+      "exportedPath": "religion/song-of-the-elder-ones.html",
+      "dependencies": []
+    },
+    "Religion/The Ori.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 30,
+      "exportedPath": "religion/the-ori.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/Story/- Prologue - World Of Continenta.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 4426,
+      "exportedPath": "remote-blog/publish/story/-prologue-world-of-continenta.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/Story/- Prologue - World Of Continenta.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475545,
+      "exportedPath": "remote-blog/publish/story/-prologue-world-of-continenta.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/Story/Chapter 1 - Start of the Rift.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 5276,
+      "exportedPath": "remote-blog/publish/story/chapter-1-start-of-the-rift.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/Story/Chapter 1 - Start of the Rift.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1483371,
+      "exportedPath": "remote-blog/publish/story/chapter-1-start-of-the-rift.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/Story/Chapter 2 - The Cellesella.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 11147,
+      "exportedPath": "remote-blog/publish/story/chapter-2-the-cellesella.html",
+      "dependencies": [
+        "lib/media/1675935020913.jpg"
+      ]
+    },
+    "remote-blog/publish/Story/Chapter 2 - The Cellesella.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1476229,
+      "exportedPath": "remote-blog/publish/story/chapter-2-the-cellesella.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/Story/Chapter 2 - The Cellesella (AI).md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 12467,
+      "exportedPath": "remote-blog/publish/story/chapter-2-the-cellesella-(ai).html",
+      "dependencies": [
+        "lib/media/1675935020913.jpg"
+      ]
+    },
+    "remote-blog/publish/Story/Chapter 3 - The Cost of Immortality.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 4802,
+      "exportedPath": "remote-blog/publish/story/chapter-3-the-cost-of-immortality.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/Story/Chapter 3 - The Cost of Immortality.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475720,
+      "exportedPath": "remote-blog/publish/story/chapter-3-the-cost-of-immortality.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/Story/Chapter 4 - Wave of Changes.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 5717,
+      "exportedPath": "remote-blog/publish/story/chapter-4-wave-of-changes.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/Story/Chapter 4 - Wave of Changes.html": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1475610,
+      "exportedPath": "remote-blog/publish/story/chapter-4-wave-of-changes.html",
+      "dependencies": []
+    },
+    "remote-blog/publish/home.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 332,
+      "exportedPath": "remote-blog/publish/home.html",
+      "dependencies": []
+    },
+    "remote-blog/README.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 150,
+      "exportedPath": "remote-blog/readme.html",
+      "dependencies": []
+    },
+    "Tales of Sakkan/Ch.1 Seas People.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1015,
+      "exportedPath": "tales-of-sakkan/ch.1-seas-people.html",
+      "dependencies": []
+    },
+    "Tales of Sakkan/Ch.2 Refugee.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 622,
+      "exportedPath": "tales-of-sakkan/ch.2-refugee.html",
+      "dependencies": []
+    },
+    "Tales of Sakkan/Ch.6 The Immortals.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 755,
+      "exportedPath": "tales-of-sakkan/ch.6-the-immortals.html",
+      "dependencies": []
+    },
+    "Tales of Sakkan/Ch.13 Ares.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 183,
+      "exportedPath": "tales-of-sakkan/ch.13-ares.html",
+      "dependencies": []
+    },
+    "z_Images/1675935020913.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 565924,
+      "exportedPath": "z_images/1675935020913.jpg",
+      "dependencies": []
+    },
+    "z_Images/1675935224021.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 496755,
+      "exportedPath": "z_images/1675935224021.jpg",
+      "dependencies": []
+    },
+    "z_Images/1676564327502.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 536525,
+      "exportedPath": "z_images/1676564327502.jpg",
+      "dependencies": []
+    },
+    "z_Images/Alyna Cerrine In Garden.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 224753,
+      "exportedPath": "z_images/alyna-cerrine-in-garden.jpg",
+      "dependencies": []
+    },
+    "z_Images/artwork holyminerca.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 441229,
+      "exportedPath": "z_images/artwork-holyminerca.jpg",
+      "dependencies": []
+    },
+    "z_Images/artwork of Croton.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 325007,
+      "exportedPath": "z_images/artwork-of-croton.jpg",
+      "dependencies": []
+    },
+    "z_Images/Cassio Emblem.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 30372,
+      "exportedPath": "z_images/cassio-emblem.png",
+      "dependencies": []
+    },
+    "z_Images/Cellesela Banner.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 30176,
+      "exportedPath": "z_images/cellesela-banner.png",
+      "dependencies": []
+    },
+    "z_Images/Cellesela Banner 1.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 30572,
+      "exportedPath": "z_images/cellesela-banner-1.png",
+      "dependencies": []
+    },
+    "z_Images/celleselabanner.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 710835,
+      "exportedPath": "z_images/celleselabanner.png",
+      "dependencies": []
+    },
+    "z_Images/celleselabanner2.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 305945,
+      "exportedPath": "z_images/celleselabanner2.png",
+      "dependencies": []
+    },
+    "z_Images/celleselabanner3.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 421061,
+      "exportedPath": "z_images/celleselabanner3.png",
+      "dependencies": []
+    },
+    "z_Images/CiroAlcyon.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 227145,
+      "exportedPath": "z_images/ciroalcyon.jpg",
+      "dependencies": []
+    },
+    "z_Images/CiroAlcyon1.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 216804,
+      "exportedPath": "z_images/ciroalcyon1.jpg",
+      "dependencies": []
+    },
+    "z_Images/Continenta.jpeg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 644851,
+      "exportedPath": "z_images/continenta.jpeg",
+      "dependencies": []
+    },
+    "z_Images/Creo.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 568486,
+      "exportedPath": "z_images/creo.jpg",
+      "dependencies": []
+    },
+    "z_Images/dragonspider.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 463129,
+      "exportedPath": "z_images/dragonspider.png",
+      "dependencies": []
+    },
+    "z_Images/Elara.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 471151,
+      "exportedPath": "z_images/elara.jpg",
+      "dependencies": []
+    },
+    "z_Images/incazil banner.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 257234,
+      "exportedPath": "z_images/incazil-banner.png",
+      "dependencies": []
+    },
+    "z_Images/JuliusAlt.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 398413,
+      "exportedPath": "z_images/juliusalt.jpg",
+      "dependencies": []
+    },
+    "z_Images/Martius.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 508651,
+      "exportedPath": "z_images/martius.jpg",
+      "dependencies": []
+    },
+    "z_Images/Martius2.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 464496,
+      "exportedPath": "z_images/martius2.jpg",
+      "dependencies": []
+    },
+    "z_Images/MineraliaMagna.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 366082,
+      "exportedPath": "z_images/mineraliamagna.png",
+      "dependencies": []
+    },
+    "z_Images/mother minerva.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 509870,
+      "exportedPath": "z_images/mother-minerva.jpg",
+      "dependencies": []
+    },
+    "z_Images/newluna.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1060928,
+      "exportedPath": "z_images/newluna.png",
+      "dependencies": []
+    },
+    "z_Images/noble potii.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 181348,
+      "exportedPath": "z_images/noble-potii.jpg",
+      "dependencies": []
+    },
+    "z_Images/OldBuilding.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 323606,
+      "exportedPath": "z_images/oldbuilding.jpg",
+      "dependencies": []
+    },
+    "z_Images/Playground.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 657886,
+      "exportedPath": "z_images/playground.jpg",
+      "dependencies": []
+    },
+    "z_Images/Rhagaia Emblem.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 39242,
+      "exportedPath": "z_images/rhagaia-emblem.png",
+      "dependencies": []
+    },
+    "z_Images/Rhagaia Emblem 1.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 49421,
+      "exportedPath": "z_images/rhagaia-emblem-1.png",
+      "dependencies": []
+    },
+    "z_Images/rhagaiabanner.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 288513,
+      "exportedPath": "z_images/rhagaiabanner.png",
+      "dependencies": []
+    },
+    "z_Images/Samulus.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 421645,
+      "exportedPath": "z_images/samulus.jpg",
+      "dependencies": []
+    },
+    "z_Images/SamulusAlt.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 454715,
+      "exportedPath": "z_images/samulusalt.jpg",
+      "dependencies": []
+    },
+    "z_Images/sciatic.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 759626,
+      "exportedPath": "z_images/sciatic.jpg",
+      "dependencies": []
+    },
+    "z_Images/SemiLya.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 203511,
+      "exportedPath": "z_images/semilya.jpg",
+      "dependencies": []
+    },
+    "z_Images/SemiLyaAlt.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 147055,
+      "exportedPath": "z_images/semilyaalt.jpg",
+      "dependencies": []
+    },
+    "z_Images/StyxBanner.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 334074,
+      "exportedPath": "z_images/styxbanner.png",
+      "dependencies": []
+    },
+    "z_Images/the Ori priest.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 254150,
+      "exportedPath": "z_images/the-ori-priest.jpg",
+      "dependencies": []
+    },
+    "z_Images/young mother cellesela.gif": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1812615,
+      "exportedPath": "z_images/young-mother-cellesela.gif",
+      "dependencies": []
+    },
+    "z_Images/Young Octavia.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 141863,
+      "exportedPath": "z_images/young-octavia.jpg",
+      "dependencies": []
+    },
+    "z_Images/zeurkeeur.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 250443,
+      "exportedPath": "z_images/zeurkeeur.jpg",
+      "dependencies": []
+    },
+    "z_Images/zeurkeur.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1819755,
+      "exportedPath": "z_images/zeurkeur.png",
+      "dependencies": []
+    },
+    "Continenta Map New.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 129793499,
+      "exportedPath": "continenta-map-new.png",
+      "dependencies": []
+    },
+    "Timeline.md": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 660,
+      "exportedPath": "timeline.html",
+      "dependencies": []
+    },
+    "lib/media/alyna-cerrine-in-garden.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 224753,
+      "exportedPath": "lib/media/alyna-cerrine-in-garden.jpg",
+      "dependencies": []
+    },
+    "lib/media/young-mother-cellesela.gif": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1812615,
+      "exportedPath": "lib/media/young-mother-cellesela.gif",
+      "dependencies": []
+    },
+    "lib/media/creo.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 568486,
+      "exportedPath": "lib/media/creo.jpg",
+      "dependencies": []
+    },
+    "lib/media/newluna.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 1060928,
+      "exportedPath": "lib/media/newluna.png",
+      "dependencies": []
+    },
+    "lib/media/young-octavia.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 141863,
+      "exportedPath": "lib/media/young-octavia.jpg",
+      "dependencies": []
+    },
+    "lib/media/zeurkeeur.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 250443,
+      "exportedPath": "lib/media/zeurkeeur.jpg",
+      "dependencies": []
+    },
+    "lib/media/juliusalt.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 398413,
+      "exportedPath": "lib/media/juliusalt.jpg",
+      "dependencies": []
+    },
+    "lib/media/samulus.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 421645,
+      "exportedPath": "lib/media/samulus.jpg",
+      "dependencies": []
+    },
+    "lib/media/martius.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 508651,
+      "exportedPath": "lib/media/martius.jpg",
+      "dependencies": []
+    },
+    "lib/media/ciroalcyon.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 227145,
+      "exportedPath": "lib/media/ciroalcyon.jpg",
+      "dependencies": []
+    },
+    "lib/media/artwork-of-croton.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 325007,
+      "exportedPath": "lib/media/artwork-of-croton.jpg",
+      "dependencies": []
+    },
+    "lib/media/mother-minerva.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 509870,
+      "exportedPath": "lib/media/mother-minerva.jpg",
+      "dependencies": []
+    },
+    "lib/media/artwork-holyminerca.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 441229,
+      "exportedPath": "lib/media/artwork-holyminerca.jpg",
+      "dependencies": []
+    },
+    "lib/media/noble-potii.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 181348,
+      "exportedPath": "lib/media/noble-potii.jpg",
+      "dependencies": []
+    },
+    "lib/media/elara.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 471151,
+      "exportedPath": "lib/media/elara.jpg",
+      "dependencies": []
+    },
+    "lib/media/semilya.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 203511,
+      "exportedPath": "lib/media/semilya.jpg",
+      "dependencies": []
+    },
     "lib/media/the-ori-priest.jpg": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 254150,
       "exportedPath": "lib/media/the-ori-priest.jpg",
       "dependencies": []
     },
+    "lib/media/cellesela-banner-1.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 30572,
+      "exportedPath": "lib/media/cellesela-banner-1.png",
+      "dependencies": []
+    },
+    "lib/media/1676564327502.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 536525,
+      "exportedPath": "lib/media/1676564327502.jpg",
+      "dependencies": []
+    },
+    "lib/media/samulusalt.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 454715,
+      "exportedPath": "lib/media/samulusalt.jpg",
+      "dependencies": []
+    },
+    "lib/media/rhagaiabanner.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 288513,
+      "exportedPath": "lib/media/rhagaiabanner.png",
+      "dependencies": []
+    },
+    "lib/media/rhagaia-emblem-1.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 49421,
+      "exportedPath": "lib/media/rhagaia-emblem-1.png",
+      "dependencies": []
+    },
+    "lib/media/martius2.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 464496,
+      "exportedPath": "lib/media/martius2.jpg",
+      "dependencies": []
+    },
+    "lib/media/ciroalcyon1.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 216804,
+      "exportedPath": "lib/media/ciroalcyon1.jpg",
+      "dependencies": []
+    },
+    "lib/media/cassio-emblem.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 30372,
+      "exportedPath": "lib/media/cassio-emblem.png",
+      "dependencies": []
+    },
+    "lib/media/dragonspider.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 463129,
+      "exportedPath": "lib/media/dragonspider.png",
+      "dependencies": []
+    },
+    "lib/media/oldbuilding.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 323606,
+      "exportedPath": "lib/media/oldbuilding.jpg",
+      "dependencies": []
+    },
+    "lib/media/mineraliamagna.png": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 366082,
+      "exportedPath": "lib/media/mineraliamagna.png",
+      "dependencies": []
+    },
+    "lib/media/sciatic.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 759626,
+      "exportedPath": "lib/media/sciatic.jpg",
+      "dependencies": []
+    },
+    "lib/media/1675935020913.jpg": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 565924,
+      "exportedPath": "lib/media/1675935020913.jpg",
+      "dependencies": []
+    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1737525317356,
-      "sourceSize": 3608,
+      "modifiedTime": 1737896916858,
+      "sourceSize": 106979,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1737525317356,
-      "sourceSize": 316,
+      "modifiedTime": 1737896916858,
+      "sourceSize": 8668,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1737896916858,
+      "sourceSize": 47109,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
     "lib/styles/theme.css": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 1048129,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 524,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 48,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1737525317356,
+      "modifiedTime": 1737896916858,
       "sourceSize": 2321,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
